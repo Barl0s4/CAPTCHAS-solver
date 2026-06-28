@@ -19,8 +19,3 @@ A machine learning model that solves 5-character CAPTCHA images using a multi-ou
 
 ## Dataset
 [CAPTCHA Version 2 Images](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images) via Kaggle
-
-## Team
-- Carlos Guizar
-- Daniel Solano
-- Mariana Duran
